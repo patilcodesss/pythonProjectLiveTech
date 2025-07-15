@@ -1,2 +1,2 @@
 # pythonProjectLiveTech
-ludo game
+ludo game by aditya patil
